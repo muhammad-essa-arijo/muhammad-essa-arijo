@@ -48,9 +48,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-essa-arijo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats-git-main-anuraghazra.vercel.app/api?username=muhammad-essa-arijo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-essa-arijo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats-git-main-anuraghazra.vercel.app/api/top-langs/?username=muhammad-essa-arijo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=muhammad-essa-arijo&theme=radical&background=0D1117&sideLabels=FF6B6B&currStreakNum=FFFFFF&ring=FF6B6B)
 
 </div>
 
