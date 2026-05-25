@@ -9,11 +9,7 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
-
-<img align="right" width="200" src="https://media.giphy.com/media/SWoRKslHVtqjewMwod/giphy.gif" alt="Coding">
 
 - 🎯 Passionate about **building scalable solutions**
 - 🌍 Working on **Full-Stack Development** projects
@@ -21,7 +17,7 @@
 - 💡 Love **problem-solving** and **collaborating** with developers
 - 🏆 Committed to **clean code** and **best practices**
 
----
+<img width="200" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="coding" style="margin: 20px 0;">
 
 ## 🛠️ Tech Stack
 
@@ -48,8 +44,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -60,8 +54,6 @@
 
 </div>
 
----
-
 ## 🚀 Featured Projects
 
 | 🎯 Project | 📝 Description | 🔗 Link |
@@ -71,9 +63,8 @@
 | **Hotel Reservation System** | Comprehensive GUI-based hostel reservation system developed in Java Swing. Enables users to book rooms, manage reservations, handle hostel records, and track bookings through an interactive desktop interface with database backend. | [View Repo](https://github.com/muhammad-essa-arijo/hotel-reservation-system-in-java-swing) |
 | **AI Web Chatbot** | Web-based AI Chatbot Assistant built with Java that simulates human-like conversation through a browser interface. Leverages AI logic to provide intelligent responses and engage users in meaningful dialogue with session management. | [View Repo](https://github.com/muhammad-essa-arijo/web-based-ai-chatbot-in-java) |
 | **My Calculator Website** | Responsive calculator web application built with HTML, CSS, and JavaScript. Performs basic arithmetic operations (addition, subtraction, multiplication, division) with a modern, user-friendly interface and smooth interactive experience. | [View Repo](https://github.com/muhammad-essa-arijo/My-Calculator-Website) |
+| **Calculator Website** | Interactive calculator web application with CSS-based styling. Clean and efficient design for performing mathematical calculations with an intuitive user experience and responsive layout. | [View Repo](https://github.com/muhammad-essa-arijo/Calculator-Website) |
 | **Student Record Management System (Qt)** | Advanced GUI-based C++ application using Qt framework for professional student record management. Features comprehensive CRUD operations, database integration, and a polished user interface for efficient data handling. | [View Repo](https://github.com/muhammad-essa-arijo/StudentRecordManagementSystem_Qt) |
-
----
 
 ## 📈 Contribution Graph
 
@@ -83,20 +74,13 @@
 
 </div>
 
----
-
 ## 🎯 Current Focus
 
 <div align="center">
 
-- 🔨 Building **Full-Stack Applications**
-- 📚 Learning **Advanced Concepts**
-- 🤝 Open to **Collaboration** on interesting projects
-- 🎓 Sharing **Knowledge** through coding
+🔨 Building **Full-Stack Applications** | 📚 Learning **Advanced Concepts** | 🤝 **Collaboration** | 🎓 **Knowledge Sharing**
 
 </div>
-
----
 
 ## 📞 Let's Connect!
 
@@ -108,20 +92,12 @@
 
 </div>
 
----
-
 <div align="center">
 
-### 💬 Quote of Inspiration
+### 💬 Coding is my passion! 🔥
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
----
-
-![Snake Animation](https://github.com/muhammad-essa-arijo/muhammad-essa-arijo/blob/output/github-contribution-grid-snake.svg)
-
-**Thanks for visiting my profile! Feel free to explore, star ⭐ my projects, and let's collaborate!**
-
-<sub>Made by Muhammad Essa Arijo</sub>
+**Exploring ideas. Building solutions. Making impact. ✨**
 
 </div>
