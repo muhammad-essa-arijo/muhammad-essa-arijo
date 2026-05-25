@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -27,8 +25,6 @@ Specialized in building enterprise-grade applications and desktop solutions.
 - 🏆 **Committed** to clean code, design patterns & performance
 
 <img width="280" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="coding" style="margin: 20px auto; display: block; opacity: 0.8;">
-
----
 
 ## 🛠️ Tech Stack
 
@@ -56,8 +52,6 @@ Specialized in building enterprise-grade applications and desktop solutions.
 
 </div>
 
----
-
 ## 📊 Stats & Highlights
 
 <div align="center">
@@ -71,8 +65,6 @@ Specialized in building enterprise-grade applications and desktop solutions.
 | **Open to** | Collaborations & New Opportunities |
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -92,8 +84,6 @@ Specialized in building enterprise-grade applications and desktop solutions.
 | **Calculator Website** | Professional calculator with clean CSS styling & optimal UX design for mathematical computations. | HTML • CSS • JavaScript | [View Repo](https://github.com/muhammad-essa-arijo/Calculator-Website) |
 | **Student Record Management (Qt)** | Advanced C++ desktop application using Qt framework. Professional CRUD operations with polished UI & database backend. | C++ • Qt • Database | [View Repo](https://github.com/muhammad-essa-arijo/StudentRecordManagementSystem_Qt) |
 
----
-
 ## 📈 Development Journey
 
 <div align="center">
@@ -109,8 +99,6 @@ Continuous improvement in code quality, design patterns & software architecture
 
 </div>
 
----
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -123,8 +111,6 @@ Continuous improvement in code quality, design patterns & software architecture
 🎓 **Sharing** knowledge through clean, well-documented code  
 
 </div>
-
----
 
 ## 📞 Let's Connect & Collaborate!
 
@@ -140,15 +126,11 @@ Continuous improvement in code quality, design patterns & software architecture
 
 </div>
 
----
-
 <div align="center">
 
 ### 💭 Words to Live By
 
 > *"The best way to predict the future is to invent it."* — **Alan Kay**
-
----
 
 ### 🌟 Let's Build Something Amazing Together!
 
