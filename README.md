@@ -136,6 +136,6 @@ Continuous improvement in code quality, design patterns & software architecture
 
 **Exploring innovative ideas** | **Building elegant solutions** | **Making a real impact** ✨
 
-<sub>Made with ❤️ and ☕ by Muhammad Essa</sub>
+<sub>Made by Muhammad Essa</sub>
 
 </div>
